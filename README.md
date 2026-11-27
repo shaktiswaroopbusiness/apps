@@ -7,6 +7,7 @@ https://shaktiswaroopbusiness.github.io/apps/
 | App | Privacy policy |
 |---|---|
 | Ghar Hisab | https://shaktiswaroopbusiness.github.io/apps/ghar-hisab/privacy.html |
+| GigaLeft | https://shaktiswaroopbusiness.github.io/apps/gigaleft/privacy.html |
 | Photo & Sign Resizer | https://shaktiswaroopbusiness.github.io/apps/photo-sign-resizer/privacy.html |
 
 To add an app: create a folder named after the app with a `privacy.html` inside, and add it to `index.html` and this table.
